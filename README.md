@@ -89,6 +89,8 @@ You should see this success message:
 ---
 
 ### 1. START BOOTNODE:
+
+* Go to KafeTestNet folder: `cd KafeTestNet`
 * Run the bootnode with the `boot_bootnet.key` created before 
 
 ```bash
