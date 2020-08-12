@@ -38,7 +38,7 @@ geth account new --datadir n2
  ```
 * Type in the network name "bootnet" and hit enter to move forward in the wizard.
 * Type `2` to pick the `Configure new genesis` option, then `1` to `Create new genesis from scratch`:
-* Type `1` to choose `Proof of Work` and continue.
+* Type `1` to choose `Proof of Authority` and continue.
 * Copy and paste an address from the one of the two nodes you had created before without the `0x` prefix hit enter .
 * Copy and paste an address from the second of the two nodes you had created before without the `0x` prefix hit enter.
 * You will be asked to enter a pre-fund account.
